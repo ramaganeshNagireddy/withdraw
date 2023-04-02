@@ -1,0 +1,44 @@
+/* Write your CSS here */
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+}
+.sub-container {
+  background-color: #150b3e;
+  border-radius: 10px;
+
+  display: flex;
+  flex-direction: column;
+}
+.img-container {
+  display: flex;
+  flex-direction: row;
+  color: #c7d2fe;
+}
+.logo {
+  background-color: #c7d2fe;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  border-radius: 20px;
+}
+.balance {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.amount {
+  color: #ffffff;
+}
+.rup {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.btn {
+  background-color: #382f5a;
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  font-size: 12px;
+  color: #d4d2db;
+  text-align: center;
+}
